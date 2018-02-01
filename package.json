@@ -1,5 +1,5 @@
 {
-  "name": "optimizedhtml",
+  "name": "portfolio",
   "version": "2.0.1",
   "description": "OptimizedHTML - Start HTML Template",
   "main": "index.js",
@@ -24,5 +24,16 @@
     "gulp-uglify": "^3.0.0",
     "gulp-util": "^3.0.8",
     "vinyl-ftp": "^0.6.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maxrozvora/Portfolio.git"
+  },
+  "keywords": [
+    "porfolio"
+  ],
+  "bugs": {
+    "url": "https://github.com/Maxrozvora/Portfolio/issues"
+  },
+  "homepage": "https://github.com/Maxrozvora/Portfolio#readme"
 }
